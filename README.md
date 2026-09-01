@@ -175,7 +175,7 @@ A combination chart was used to compare **engagement rate and advertising spend 
 
  ### Task 3 – Platform Analysis
 
-![Task 3 Dashboard](Screenshots/Task-3-Dashboard.png) 
+![Task 3 Dashboard](https://github.com/pukazharasikumar-crypto/Apple-Social-Media-Analytics/blob/main/Apple%20social%20media%20analytics%20project/image/Task-3-Dashboard.png?raw=true) 
 
 ---
 
