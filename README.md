@@ -106,6 +106,9 @@ Growth Rate = Net Growth / Total Followers
 ```
 
 ---
+### Task 1 – Data Analysis Dashboard
+
+![Task 1 Dashboard](Screenshots/Task-1-Dashboard.png)
 
 # 📌 Task 2 – Post & Hashtag Analysis
 
