@@ -109,7 +109,7 @@ Growth Rate = Net Growth / Total Followers
 ---
 ### Task 1 – Data Analysis Dashboard
 
-![Task 1 Dashboard](Apple social media analytics project/image/Task-1-Dashboard.png)
+![Task 1 Dashboard](https://github.com/pukazharasikumar-crypto/Apple-Social-Media-Analytics/blob/main/Apple%20social%20media%20analytics%20project/image/Task-1-Dashboard.png?raw=true)
 
 # 📌 Task 2 – Post & Hashtag Analysis
 
