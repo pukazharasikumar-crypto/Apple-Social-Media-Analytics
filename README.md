@@ -207,7 +207,7 @@ The analysis compared engagement rates across platforms and content types.
 Video content performed strongly across several platforms, while image content showed strong performance for Twitter.
 ### Task 4 – Hashtag & Content Analysis
 
-![Task 4 Dashboard](Screenshots/Task-4-Dashboard.png)
+![Task 4 Dashboard](https://github.com/pukazharasikumar-crypto/Apple-Social-Media-Analytics/blob/main/Apple%20social%20media%20analytics%20project/image/Task-4-Dashboard.png?raw=true)
 
 ---
 
