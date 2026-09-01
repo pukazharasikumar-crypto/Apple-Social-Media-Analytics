@@ -242,7 +242,7 @@ Campaign performance was also compared using engagement rates before and during 
 This helped evaluate the impact of marketing campaigns on social media engagement.
 ### Task 5 – Campaign Analysis
 
-![Task 5 Dashboard](Screenshots/Task-5-Dashboard.png)
+![Task 5 Dashboard](https://github.com/pukazharasikumar-crypto/Apple-Social-Media-Analytics/blob/main/Apple%20social%20media%20analytics%20project/image/Task-5-Dashboard.png?raw=true)
 
 ---
 
