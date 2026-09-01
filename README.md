@@ -139,6 +139,9 @@ Impressions
 Pivot tables and conditional formatting were used to identify high-performing posts and hashtags.
 
 ---
+### Task 2 – Post & Hashtag Analysis
+
+![Task 2 Dashboard]()
 
 # 📌 Task 3 – Platform Performance Analysis
 
