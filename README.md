@@ -173,6 +173,10 @@ A combination chart was used to compare **engagement rate and advertising spend 
 * Different platforms performed better for different types of content.
 * A multi-platform strategy can be more effective than relying on a single platform.
 
+ ### Task 3 – Platform Analysis
+
+![Task 3 Dashboard](Screenshots/Task-3-Dashboard.png) 
+
 ---
 
 # 📌 Task 4 – Hashtag & Content Performance
@@ -201,6 +205,9 @@ The analysis compared engagement rates across platforms and content types.
 ### Key Finding
 
 Video content performed strongly across several platforms, while image content showed strong performance for Twitter.
+### Task 4 – Hashtag & Content Analysis
+
+![Task 4 Dashboard](Screenshots/Task-4-Dashboard.png)
 
 ---
 
@@ -233,6 +240,9 @@ This stage evaluated Apple’s marketing campaign performance.
 Campaign performance was also compared using engagement rates before and during campaigns.
 
 This helped evaluate the impact of marketing campaigns on social media engagement.
+### Task 5 – Campaign Analysis
+
+![Task 5 Dashboard](Screenshots/Task-5-Dashboard.png)
 
 ---
 
@@ -255,6 +265,9 @@ A **3-week moving average** was used to smooth short-term fluctuations and ident
 ### Visualization
 
 Pivot tables, Pivot Charts, and dashboards were used to present the results.
+### Task 6 – Follower Growth Analysis
+
+![Task 6 Dashboard](Screenshots/Task-6-Dashboard.png)
 
 ---
 
