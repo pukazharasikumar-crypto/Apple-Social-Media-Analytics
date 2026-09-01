@@ -141,7 +141,7 @@ Pivot tables and conditional formatting were used to identify high-performing po
 ---
 ### Task 2 – Post & Hashtag Analysis
 
-![Task 2 Dashboard]()
+![Task 2 Dashboard](https://github.com/pukazharasikumar-crypto/Apple-Social-Media-Analytics/blob/main/Apple%20social%20media%20analytics%20project/image/Task-2-Dashboard.png?raw=true)
 
 # 📌 Task 3 – Platform Performance Analysis
 
