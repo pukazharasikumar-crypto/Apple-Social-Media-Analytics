@@ -267,7 +267,7 @@ A **3-week moving average** was used to smooth short-term fluctuations and ident
 Pivot tables, Pivot Charts, and dashboards were used to present the results.
 ### Task 6 – Follower Growth Analysis
 
-![Task 6 Dashboard](Screenshots/Task-6-Dashboard.png)
+![Task 6 Dashboard](https://github.com/pukazharasikumar-crypto/Apple-Social-Media-Analytics/blob/main/Apple%20social%20media%20analytics%20project/image/Task-6-Dashboard.png?raw=true)
 
 ---
 
